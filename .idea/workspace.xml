@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80fea090-8a88-4dc7-a4b2-58ef3234a92d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SkyProJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SkyProJavaHomeWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_5/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Exsemple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Beeper/Beeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Beeper/Bip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Beeper/Horn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Beeper/Tuu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Car/AudiR8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Car/PorcheCayenne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Car/Priora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Car/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Engine/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Engine/EngineD12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Engine/EngineV12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Engine/EngineV18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Engine/EngineV6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Home_Work_lesson_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Seats/Seats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Seats/Seats2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Seats/Seats5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="80fea090-8a88-4dc7-a4b2-58ef3234a92d" name="Changes" comment="home work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Ex1">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_4.Ex1" />
